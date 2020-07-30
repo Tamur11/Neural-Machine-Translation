@@ -1,4 +1,4 @@
-# Assignment 4 (Neural Machine Translation)
+# Assignment 4 (Neural Machine Translation with RNNs)
 
 Solution to Assignment 4 of Stanford's Natural Language Processing with Deep Learning (XCS224N) course.
 
